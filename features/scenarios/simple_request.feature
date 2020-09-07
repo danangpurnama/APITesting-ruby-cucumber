@@ -1,4 +1,4 @@
-Feature: Simple Request
+Feature: Simple  Request
 
     Scenario: Simple Request
         When I send and accept JSON
